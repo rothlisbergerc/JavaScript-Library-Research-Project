@@ -96,7 +96,7 @@
         retina_detect: true,
         background: {
             color: "#000000",
-            image: "url('/images/terry_pratchett_quote_vignette.jpg')", //"url('https://newevolutiondesigns.com/images/freebies/4k-wallpaper-1.jpg')",
+            image: "url('images/terry_pratchett_quote_vignette.jpg')", //"url('https://newevolutiondesigns.com/images/freebies/4k-wallpaper-1.jpg')",
             position: "center",
             repeat: "no-repeat",
             size: "cover"
